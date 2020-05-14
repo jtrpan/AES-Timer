@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc3a6c11-072d-40ff-a2bd-4f6e8175d778" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="206" />
+  </component>
+  <component name="ProjectId" id="1bu4lixcgcq2zAbApMJm50lcGe2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TimeStamper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="TimeStamper" />
+      <module name="CryptoTimer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TimeStamper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc3a6c11-072d-40ff-a2bd-4f6e8175d778" name="Default Changelist" comment="" />
+      <created>1589468798366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589468798366</updated>
+      <workItem from="1589468807596" duration="547000" />
+      <workItem from="1589469370686" duration="131000" />
+      <workItem from="1589469514616" duration="41000" />
+      <workItem from="1589469569589" duration="54000" />
+      <workItem from="1589470621002" duration="382000" />
+      <workItem from="1589471124639" duration="240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="71" key="#Plugins" timestamp="1589469356325">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="71" key="#Plugins/0.0.1536.824@0.0.1536.824" timestamp="1589469356325" />
+    <state x="362" y="71" key="#Project_Structure" timestamp="1589471207901">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589471207901" />
+    <state x="490" y="31" width="582" height="762" key="#TimeStamper" timestamp="1589471174697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="31" width="582" height="762" key="#TimeStamper/0.0.1536.824@0.0.1536.824" timestamp="1589471174697" />
+    <state x="550" y="167" key="FileChooserDialogImpl" timestamp="1589469553716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589469553716" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1589471364863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589471364863" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1589471364863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589471364863" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1589471364863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589471364863" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1589471364863">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589471364863" />
+    <state x="250" y="0" key="SettingsEditor" timestamp="1589469281150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="250" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589469281150" />
+    <state x="444" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1589470620381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589470620381" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1589469523816">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589469523816" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CryptoTimer$TimeStamper.ic" NAME="TimeStamper Coverage Results" MODIFIED="1589471245967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
